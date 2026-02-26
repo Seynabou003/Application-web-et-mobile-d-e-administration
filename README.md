@@ -1,2 +1,6 @@
 # Application-web-et-mobile-d-e-administration
 AdminXpress : plateforme de demande de documents administratifs en ligne
+
+L’application web et mobile aura pour but de simplifier l’obtention de documents administratifs (extraits de naissance, certificat de résidence, certificat de nationalité, casier judiciaire, certificat de mariage). Tout citoyen ayant une carte d’identité valide peut faire une demande de document. Il va téléverser les documents nécessaires à sa demande en fonction du type de celui-ci et des exigences de la mairie concernée. Après avoir effectué le paiement il pourra suivre l’état de sa demande et recevra une notification quand son document sera prêt. A ce stade l’utilisateur aura deux options : soit aller le chercher lui-même a la mairie en fournissant une pièce d’identité pour preuve, soit payer des frais supplémentaires pour pouvoir se le faire livrer.
+L’objectif de cette application est principalement de faire gagner du temps aux citoyens en lui évitant les longues fil d’attente que l’on peut retrouver dans les mairies, tribunaux etc.
+Chaque demande faite via l’application sera reçue et traitée par un agent. Il va se charger de vérifier l’authenticité des documents téléversés par le client avent de transmettre la demande à l’administration.
